@@ -1,1 +1,1 @@
-steam://rungameid/1874880
+http://steam://rungameid/1874880
